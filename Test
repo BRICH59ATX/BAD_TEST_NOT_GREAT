@@ -1,4 +1,4 @@
-def test():
+def Test():
     message = "Hello, world!"
     print(message)
     assert message == "Hello, world!"
