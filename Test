@@ -1,2 +1,2 @@
 def test():
-    echo "What?" 
+    print "What?" 
